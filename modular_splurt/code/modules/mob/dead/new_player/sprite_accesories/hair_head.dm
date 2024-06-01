@@ -212,6 +212,20 @@
 	icon_state = "hair_phoebe"
 
 
+	/datum/sprite_accessory/hair/ThickShort
+	name = "Thick (Short)"
+	icon_state = "hair_thick_(short)"
+	icon = 'modular_splurt/icons/mob/hair.dmi'
+	icon_state = "hair_thick_(short)"
+
+	/datum/sprite_accessory/hair/ThickLong
+	name = "Thick (Long)"
+	icon_state = "hair_thick_(long)"
+	icon = 'modular_splurt/icons/mob/hair.dmi'
+	icon_state = "hair_thick_(long)"
+
+
+
 /datum/sprite_accessory/hair/teshari
 	name = "Teshari Default"
 	icon_state = "teshari_default"
