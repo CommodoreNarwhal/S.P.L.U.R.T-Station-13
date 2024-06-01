@@ -534,6 +534,10 @@
 	name = "Kusanagi"
 	icon_state = "hair_kusanagi"
 
+/datum/sprite_accessory/hair/long_and_fluffy
+	name = "Long and Fluffy"
+	icon_state = "hair_long_and_fluffy"
+
 /datum/sprite_accessory/hair/long
 	name = "Long Hair 1"
 	icon_state = "hair_long"
@@ -1102,6 +1106,7 @@
 /datum/sprite_accessory/hair_gradient/long_fade_down
 	name = "Long Fade Down"
 	icon_state = "long_fade_down"
+
 
 /datum/sprite_accessory/hair_gradient/short_fade_up
 	name = "Short Fade Up"
