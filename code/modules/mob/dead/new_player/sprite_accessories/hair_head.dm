@@ -948,14 +948,6 @@
 	name = "Swept Back Hair 2"
 	icon_state = "hair_swept2"
 
-/datum/sprite_accessory/hair/ThickShort
-	name = "Thick (Short)"
-	icon_state = "hair_thick_(short)"
-
-/datum/sprite_accessory/hair/ThickLong
-	name = "Thick (Long)"
-	icon_state = "hair_thick_(long)"
-
 /datum/sprite_accessory/hair/thinning
 	name = "Thinning"
 	icon_state = "hair_thinning"
